@@ -28,18 +28,32 @@ lista_de_listas_de_inteiros = [
     [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
 ]
 
-for lista in lista_de_listas_de_inteiros:
-    print(lista)
-    lista_tmp = []
+# for lista in lista_de_listas_de_inteiros:
+#     print(lista)
+#     lista_tmp = []
+#     for numero in lista:
+#         lista_tmp.append(numero)
+#         numero_tmp = []
+#         numero_tmp.append(numero)
+#         valor = set(lista_tmp) - set(numero_tmp)
+#         if len(lista_tmp) > 1:
+#             if len(valor)+1 != len(lista_tmp):
+#                 print(f'O primeiro numero da sequencia {lista}, a repetir eh o {numero_tmp}')
+#                 break
+#
+#
+#     print()
+
+def encontra_repetido(lista):
+    verificados = set()
+    repetido = -1
+
     for numero in lista:
-        lista_tmp.append(numero)
-        numero_tmp = []
-        numero_tmp.append(numero)
-        valor = set(lista_tmp) - set(numero_tmp)
-        if len(lista_tmp) > 1:
-            if len(valor)+1 != len(lista_tmp):
-                print(f'O primeiro numero da sequencia {lista}, a repetir eh o {numero_tmp}')
-                break
+        if numero in verificados:
+            repetido = numero
+            break
+        verificados.add(numero)
+    return repetido
 
-
-    print()
+for lista in lista_de_listas_de_inteiros:
+    print(lista, encontra_repetido(lista))
