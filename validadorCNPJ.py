@@ -22,9 +22,11 @@ Recap.
 6543298765432 -> Segunro digito
 """
 import re
+
+
 def prepara_cnpj(cnpj):
     return re.sub(r'[^0-9]','',cnpj) 
-    
+ 
 
 def dig(cnpj):
     cnpj = cnpj[:-2]
@@ -58,6 +60,7 @@ def dig(cnpj):
 
     return cnpj
 
+
 def verifica_cnpj(cnpj):   
         cnpj_recebido = prepara_cnpj(cnpj)
         if not len(cnpj_recebido) <14: 
@@ -69,4 +72,3 @@ def verifica_cnpj(cnpj):
         else:
             print('CNPJ Invalido')
     
-
