@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e05c9e5-0bf1-4965-b068-27afb88aadbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/atributos_classe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/getsetter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/agregacao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/agregacao/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/agregacao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/associacao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/associacao/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/associacao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/composicao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/composicao/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/composicao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/heranca/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/heranca/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/heranca/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,18 +31,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/POO/heranca/classes.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1nW0UtdT6l1x24FwrPspjelu0KO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.atributos_classe">
-    <configuration name="atributos_classe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Christian\Python\GitHub\comandos_python.py\POO\agregacao" />
+      <recent name="Z:\Christian\Python\GitHub\comandos_python.py\POO\associacao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (5)">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/agregacao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/atributos_classe.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/agregacao/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getsetter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +84,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa1972.20899/agregacao" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Temp/Rar$DRa1972.20899/agregacao/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="comandos_python.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/composicao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/getsetter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/composicao/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="comandos_python.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/heranca" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/heranca/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/agregacao/agregacao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/agregacao/agregacao/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,9 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.atributos_classe" />
-        <item itemvalue="Python.getsetter" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -123,5 +191,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
