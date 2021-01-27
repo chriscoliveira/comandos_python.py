@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e05c9e5-0bf1-4965-b068-27afb88aadbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/heranca multipla/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/heranca multipla/eletronico.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/heranca multipla/log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/heranca multipla/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/heranca multipla/smartphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/sobreposicao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/sobreposicao/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/sobreposicao/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/classe abstrata/cc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/classe abstrata/conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/classe abstrata/cp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/metodos_magicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/sobrecarga_operadores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/classe abstrata/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/classe abstrata/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/heranca multipla/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/POO/heranca multipla/log.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/POO/classe abstrata/conta.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/POO/heranca/classes.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POO/classe abstrata/main.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1nW0UtdT6l1x24FwrPspjelu0KO" />
   <component name="ProjectLevelVcsManager">
@@ -46,12 +47,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\Christian\Python\GitHub\comandos_python.py\POO\classe abstrata" />
       <recent name="Z:\Christian\Python\GitHub\comandos_python.py\POO\agregacao" />
       <recent name="Z:\Christian\Python\GitHub\comandos_python.py\POO\associacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.metodos_magicos">
+    <configuration name="cp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,32 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/sobreposicao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/classe abstrata/classes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/sobreposicao/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="comandos_python.py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/agregacao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/agregacao/main.py" />
+      <option name="SCRIPT_NAME" value="Z:\Christian\Python\GitHub\comandos_python.py\POO\classe abstrata\cp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/composicao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/classe abstrata" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/composicao/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/classe abstrata/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="metodos_magicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +124,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/heranca" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/heranca/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/metodos_magicos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sobrecarga_operadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="comandos_python.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/sobrecarga_operadores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.metodos_magicos" />
+        <item itemvalue="Python.sobrecarga_operadores" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.cp" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
