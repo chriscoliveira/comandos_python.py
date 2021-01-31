@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e05c9e5-0bf1-4965-b068-27afb88aadbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/calcular_IPV4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/calcular_IPV4/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/calcular_IPV4/calc_ipv4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/dataclasses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/dataclasses/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/implementando_o_iterador.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="Z:\Christian\Python\GitHub\comandos_python.py\POO\associacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.implementando_o_iterador">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conta" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="implementando_o_iterador" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/execercio desafio POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/execercio desafio POO/conta.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/implementando_o_iterador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="metodos_magicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="comandos_python.py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/POO/dataclasses" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/metodos_magicos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POO/dataclasses/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.implementando_o_iterador" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.calc_ipv4" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.conta" />
-        <item itemvalue="Python.metodos_magicos" />
       </list>
     </recent_temporary>
   </component>
