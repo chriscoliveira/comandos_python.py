@@ -1,7 +1,8 @@
 import os
 
-caminho_procura = '/home/adming/Área de Trabalho'
-termo_procura = 'xls'
+# caminho_procura = '/home/adming/Área de Trabalho'
+caminho_procura = input('Digite o caminho a pesquisar: ')
+termo_procura = input('Digite o termo a pesquisar: ')
 
 
 def formata_tamanho(tamanho):
@@ -29,7 +30,7 @@ def formata_tamanho(tamanho):
         tamanho /= peta
         texto = 'P'
     tamanho = round(tamanho, 2)
-    return f'{tamanho}{texto}'
+    return f'{tamanho}{texto}'.replace('.',',')
 
 
 contador = 0
