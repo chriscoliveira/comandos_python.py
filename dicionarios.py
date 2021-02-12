@@ -23,7 +23,7 @@ print(d3.get(123))
 
 if d3.get('str') is not None:
     print(d3.get('str'))
-
+print('qqqqqqqqqqqqqqqqqqqqqqqqqq')
 d3.update({'nova_chave':'novovalor'})
 
 print(d3)
