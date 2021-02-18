@@ -4,7 +4,7 @@ from time import sleep
 
 class ChromeAuto:
     def __init__(self):
-        self.driver_path = 'chromedriver'
+        self.driver_path = '/home/adming/PycharmProjects/novoselenium/chromedriver'
         self.options = webdriver.ChromeOptions()
         self.options.add_argument('user-data-dir=Perfil')
         self.chrome = webdriver.Chrome(
@@ -70,13 +70,13 @@ if __name__ == '__main__':
     chrome = ChromeAuto()
     chrome.acessa('https://github.com/')
 
-    # chrome.clica_perfil()
-    # chrome.faz_logout()
+    chrome.clica_perfil()
+    chrome.faz_logout()
     #
     chrome.clica_sign_in()
     chrome.faz_login()
 
-    # chrome.clica_perfil()
+    chrome.clica_perfil()
     # chrome.verifica_usuario('chriscoliveira')
 
     sleep(20)
