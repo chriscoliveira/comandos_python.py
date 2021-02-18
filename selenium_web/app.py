@@ -58,7 +58,7 @@ class ChromeAuto:
             btn_login = self.chrome.find_element_by_name('commit')
 
             input_login.send_keys('chriscoliveira')
-            input_password.send_keys('H4a9YeyBXNYQzkd')
+            input_password.send_keys('senha')
 
             btn_login.click()
 
