@@ -9,46 +9,57 @@ def search(link):
     return soup
 
 
-'''
-<article class="tec--card tec--card--medium">
-    <figure class="tec--card__thumb"><a class="tec--card__thumb__link"
-                                        href="https://www.tecmundo.com.br/mercado/211281-o-que-dia-consumidor.htm"
-                                        title="Ir para: O que é o Dia do Consumidor?"> <img
-            alt="Imagem de: O que é o Dia do Consumidor?"
-            class="tec--card__thumb__image lazyload"
-            data-src="https://img.ibxk.com.br/2021/02/18/18103824415048.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both"
-            height="118" width="164"/> </a></figure>
-    <div class="tec--card__info"><h3 class="tec--card__title"><a
-            class="tec--card__title__link"
-            href="https://www.tecmundo.com.br/mercado/211281-o-que-dia-consumidor.htm"> O
-        que é o Dia do Consumidor? </a></h3>
-        <div class="tec--timestamp tec--timestamp--lg">
-            <div class="tec--timestamp__item z--font-semibold">19/2/2021</div>
-            <div class="tec--timestamp__item z--min-w-none">
-                <div class="z--truncate z-flex-1">há 18 minutos</div>
-            </div>
-        </div>
-    </div>
-</article>
-'''
+def retorna_materias(link, tag_bloco, tag_titulo, tag_link=None, tag_horario=None, research=None):
+    pagina = requests.get(link)
+    soup = BeautifulSoup(pagina.text, 'html.parser')
+    arquivo = open('resultado.txt', 'w')
+    # html
+    # arquivo.write(f'<br><table><tr><td colspan="2"><h2>Notícias de {link}</td></tr>')
+    arquivo.write(f'Notícias de {link}\n')
+    contador_txt = 1000
+    gasto_txt = 0
+    for materia in soup.select(tag_bloco):
+        try:
+            texto = materia.select_one(tag_titulo).text
+            link = materia.select_one('a').get('href')
 
-
-def tecmundo(research=None):
-    link = 'https://www.tecmundo.com.br/novidades'
-    html = search(link)
-    materias = html.find_all('article', class_='tec--card--medium')
-    print(f'\nNoticias de {link}')
-    for materia in materias:
-        texto = materia.text
+            # verifica se existe a tag de horario da materia
+            if tag_horario:
+                horario = materia.select_one(tag_horario)
+                horario = horario.text.replace("há", "")
+            else:
+                horario = ''
+        except Exception as e:
+            texto = 'Falha ao ler o texto'
 
         if research:
             if research.upper() in texto.upper():
-                print(f'\t{texto.strip()}')
-                continue
-        else:
-            print(f'\t{texto.strip()}')
+                # arquivo.write(f'<tr><td>{horario}</td><td>- {texto} <a href="{link}">...</a></td></tr>')
+                arquivo.write(f'{horario} - {texto} {link}\n\n')
 
+        else:
+            # arquivo.write(
+            #     f'<tr><td>{horario}</td><td>- {texto} <a href="{link}">...</a></td></tr>')
+            arquivo.write(f'{horario} - {texto} {link}\n\n')
+    # arquivohtml.write('</table>')
+    arquivo.close()
 
 
 if __name__ == '__main__':
-    tecmundo()
+    # arquivo = open('resultado.html', 'w')
+
+    # tecmundo
+    valor = None
+    retorna_materias(link='https://www.tecmundo.com.br/novidades', tag_bloco='.tec--card--medium',
+                     tag_titulo='.tec--card__title__link', tag_horario='.z-flex-1', research=valor)
+    # # tudocelular
+    # retorna_materias(link='https://www.tudocelular.com/', tag_bloco='.newlist_normal',
+    #                  tag_titulo='.title_new', tag_horario='em',research=valor)
+    #
+    # # olhardigital
+    # retorna_materias(link='https://olhardigital.com.br/', tag_bloco='article',
+    # tag_titulo='.title', tag_horario=None,research=valor)
+    #
+    # # uol
+    # retorna_materias(link='https://noticias.uol.com.br/', tag_bloco='.thumbnails-item',
+    #                  tag_titulo='.thumb-title', tag_horario=None, research=valor)
