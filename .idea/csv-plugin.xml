@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\web_scraping\buscando_moedas.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\web_scraping\resultado.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

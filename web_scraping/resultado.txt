@@ -1,0 +1,1221 @@
+Pais : Espanha 1 peseta, 1997
+marca 
+Desc : Alumínio, 0.55g, 14mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 832
+
+Pais : Espanha 25 pesetas, 1983
+marca 
+Desc : Cupro-Níquel, 8.3g, 26.5mm
+:
+valor: € 0.35
+Krause Circulação normal · KM# 824
+
+Pais : Espanha 100 pesetas, 1984
+marca 
+Desc : Alumínio-Bronze, 9.25g, 24.5mm
+:
+valor: € 1.16
+Krause Circulação normal · KM# 826
+
+Pais : Espanha 1 peseta, 1947
+marca 53 inside the star
+Desc : Alumínio-Bronze, 3.5g, 21mm
+:
+valor: € 0.55
+Krause Circulação normal · KM# 775
+
+Pais : França 10 cêntimos, 1998
+marca 
+Desc : Alumínio-Bronze, 3g, 20mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 929
+
+Pais : Reino Unido 1 penny novo, 1980
+marca 
+Desc : Bronze, 3.56g, 20.32mm
+:
+valor: € 0.08
+Krause Circulação normal · KM# 915
+
+Pais : Bélgica 1 franco, 1958
+marca 
+Desc : Cupro-Níquel, 4g, 21mm
+:Legenda em Holandês - 'BELGIË'
+valor: € 0.09
+Krause Circulação normal · KM# 143
+
+Pais : Brasil 1 real, 2020
+marca 
+Desc : Bimetálica: centro de Aço inoxidável, anel de Aço com revestimento de Bronze, 7g, 27mm
+:
+valor: € 0.43
+Krause Circulação normal · KM# 652a
+
+Pais : Áustria 5 cêntimos de euro, 2012
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.06
+Krause Circulação normal · KM# 3084
+
+Pais : Brasil 50 centavos, 2020
+marca 
+Desc : Aço inoxidável, 7.81g, 23mm
+:
+valor: € 0.19
+Krause Circulação normal · KM# 651a
+
+Pais : Brasil 5 centavos, 2020
+marca 
+Desc : Aço com revestimento de Cobre, 4.06g, 21.9mm
+:
+valor: € 0.22
+Krause Circulação normal · KM# 648
+
+Pais : Estados Unidos da América 1 cêntimo, 1969
+marca Cunhagem: "D" - Denver
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.15
+Krause Circulação normal · KM# 201
+
+Pais : Espanha 1 peseta, 1997
+marca 
+Desc : Alumínio, 0.55g, 14mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 832
+
+Pais : Espanha 25 pesetas, 1983
+marca 
+Desc : Cupro-Níquel, 8.3g, 26.5mm
+:
+valor: € 0.35
+Krause Circulação normal · KM# 824
+
+Pais : Espanha 100 pesetas, 1984
+marca 
+Desc : Alumínio-Bronze, 9.25g, 24.5mm
+:
+valor: € 1.16
+Krause Circulação normal · KM# 826
+
+Pais : Espanha 1 peseta, 1947
+marca 53 inside the star
+Desc : Alumínio-Bronze, 3.5g, 21mm
+:
+valor: € 0.55
+Krause Circulação normal · KM# 775
+
+Pais : França 10 cêntimos, 1998
+marca 
+Desc : Alumínio-Bronze, 3g, 20mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 929
+
+Pais : Reino Unido 1 penny novo, 1980
+marca 
+Desc : Bronze, 3.56g, 20.32mm
+:
+valor: € 0.08
+Krause Circulação normal · KM# 915
+
+Pais : Bélgica 1 franco, 1958
+marca 
+Desc : Cupro-Níquel, 4g, 21mm
+:Legenda em Holandês - 'BELGIË'
+valor: € 0.09
+Krause Circulação normal · KM# 143
+
+Pais : Brasil 1 real, 2020
+marca 
+Desc : Bimetálica: centro de Aço inoxidável, anel de Aço com revestimento de Bronze, 7g, 27mm
+:
+valor: € 0.43
+Krause Circulação normal · KM# 652a
+
+Pais : Áustria 5 cêntimos de euro, 2012
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.06
+Krause Circulação normal · KM# 3084
+
+Pais : Brasil 50 centavos, 2020
+marca 
+Desc : Aço inoxidável, 7.81g, 23mm
+:
+valor: € 0.19
+Krause Circulação normal · KM# 651a
+
+Pais : Brasil 5 centavos, 2020
+marca 
+Desc : Aço com revestimento de Cobre, 4.06g, 21.9mm
+:
+valor: € 0.22
+Krause Circulação normal · KM# 648
+
+Pais : Estados Unidos da América 1 cêntimo, 1969
+marca Cunhagem: "D" - Denver
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.15
+Krause Circulação normal · KM# 201
+
+Pais : Brasil 25 centavos, 2020
+marca 
+Desc : Aço com revestimento de Latão, 7.55g, 25mm
+:
+valor: € 0.31
+Krause Circulação normal · KM# 650
+
+Pais : Brasil 10 centavos, 2020
+marca 
+Desc : Aço com revestimento de Latão, 4.8g, 20mm
+:
+valor: € 0.23
+Krause Circulação normal · KM# 649.2
+
+Pais : Espanha 1 peseta, 1966
+marca 73 inside the star
+Desc : Alumínio-Bronze, 3.5g, 21mm
+:
+valor: € 0.20
+Krause Circulação normal · KM# 796
+
+Pais : França 5 cêntimos de euro, 2014
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.05
+Krause Circulação normal · KM# 1284
+
+Pais : Suécia 1 coroa, 2003
+marca 
+Desc : Cupro-Níquel, 7g, 25mm
+:
+valor: € 1.00
+Krause Circulação normal · KM# 894
+
+Pais : Holanda 10 cêntimos, 1968
+marca 
+Desc : Níquel, 1.5g, 15mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 182
+
+Pais : Dinamarca 10 ore, 1980
+marca 
+Desc : Cupro-Níquel, 3g, 18mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 860
+
+Pais : Suécia 10 coroas, 1991
+marca 
+Desc : Ouro nórdico, 6.6g, 20.5mm
+:
+valor: € 1.12
+Krause Circulação normal · KM# 877
+
+Pais : Paraguai 100 guaranis, 2012
+marca 
+Desc : Níquel-Aço, 3.72g, 21mm
+:
+valor: € 0.74
+Krause Circulação normal · KM# 177b
+
+Pais : Paraguai 500 guaranis, 2007
+marca 
+Desc : Níquel-Aço, 4.75g, 23mm
+:
+valor: € 0.91
+Krause Circulação normal · KM# 195a
+
+Pais : México 50 centavos, 2008
+marca 
+Desc : Alumínio-Bronze, 4.39g, 22mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 549
+
+Pais : Índia 5 rúpias, 2015
+marca S/marca de cunhagem - Calcutá
+Desc : Níquel-Latão, 6.1g, 23mm
+:
+valor: € 0.21
+Krause Circulação normal · KM# 399
+
+Pais : África do Sul 2 rand, 1989
+marca 
+Desc : Cobre com revestimento de Níquel, 5.35g, 23mm
+:
+valor: € 0.68
+Krause Circulação normal · KM# 139
+
+Pais : Emirados Árabes Unidos 1 dirham, 2005
+marca 
+Desc : Cupro-Níquel, 6.5g, 24mm
+:
+valor: € 0.53
+Krause Circulação normal · KM# 6.2
+
+Pais : Gana 50 pesewas, 2007
+marca 
+Desc : Aço com revestimento de Níquel, 6.08g, 26.4mm
+:
+valor: € 0.81
+Krause Circulação normal · KM# 41
+
+Pais : Reino Unido 20 pence, 2015
+marca 
+Desc : Cupro-Níquel, 5g, 21.4mm
+:
+valor: € 0.27
+Krause Circulação normal · KM# 1336
+
+Pais : Reino Unido 20 pence, 1997
+marca 
+Desc : Cupro-Níquel, 5g, 21.4mm
+:
+valor: € 0.77
+Krause Circulação normal · KM# 939
+
+Pais : Reino Unido 5 pence, 2001
+marca 
+Desc : Cupro-Níquel, 3.25g, 18mm
+:
+valor: € 0.22
+Krause Circulação normal · KM# 988
+
+Pais : Espanha 1 peseta, 1997
+marca 
+Desc : Alumínio, 0.55g, 14mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 832
+
+Pais : Espanha 25 pesetas, 1983
+marca 
+Desc : Cupro-Níquel, 8.3g, 26.5mm
+:
+valor: € 0.35
+Krause Circulação normal · KM# 824
+
+Pais : Espanha 100 pesetas, 1984
+marca 
+Desc : Alumínio-Bronze, 9.25g, 24.5mm
+:
+valor: € 1.16
+Krause Circulação normal · KM# 826
+
+Pais : Espanha 1 peseta, 1947
+marca 53 inside the star
+Desc : Alumínio-Bronze, 3.5g, 21mm
+:
+valor: € 0.55
+Krause Circulação normal · KM# 775
+
+Pais : França 10 cêntimos, 1998
+marca 
+Desc : Alumínio-Bronze, 3g, 20mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 929
+
+Pais : Reino Unido 1 penny novo, 1980
+marca 
+Desc : Bronze, 3.56g, 20.32mm
+:
+valor: € 0.08
+Krause Circulação normal · KM# 915
+
+Pais : Bélgica 1 franco, 1958
+marca 
+Desc : Cupro-Níquel, 4g, 21mm
+:Legenda em Holandês - 'BELGIË'
+valor: € 0.09
+Krause Circulação normal · KM# 143
+
+Pais : Brasil 1 real, 2020
+marca 
+Desc : Bimetálica: centro de Aço inoxidável, anel de Aço com revestimento de Bronze, 7g, 27mm
+:
+valor: € 0.43
+Krause Circulação normal · KM# 652a
+
+Pais : Áustria 5 cêntimos de euro, 2012
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.06
+Krause Circulação normal · KM# 3084
+
+Pais : Brasil 50 centavos, 2020
+marca 
+Desc : Aço inoxidável, 7.81g, 23mm
+:
+valor: € 0.19
+Krause Circulação normal · KM# 651a
+
+Pais : Brasil 5 centavos, 2020
+marca 
+Desc : Aço com revestimento de Cobre, 4.06g, 21.9mm
+:
+valor: € 0.22
+Krause Circulação normal · KM# 648
+
+Pais : Estados Unidos da América 1 cêntimo, 1969
+marca Cunhagem: "D" - Denver
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.15
+Krause Circulação normal · KM# 201
+
+Pais : Espanha 1 peseta, 1997
+marca 
+Desc : Alumínio, 0.55g, 14mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 832
+
+Pais : Espanha 25 pesetas, 1983
+marca 
+Desc : Cupro-Níquel, 8.3g, 26.5mm
+:
+valor: € 0.35
+Krause Circulação normal · KM# 824
+
+Pais : Espanha 100 pesetas, 1984
+marca 
+Desc : Alumínio-Bronze, 9.25g, 24.5mm
+:
+valor: € 1.16
+Krause Circulação normal · KM# 826
+
+Pais : Espanha 1 peseta, 1947
+marca 53 inside the star
+Desc : Alumínio-Bronze, 3.5g, 21mm
+:
+valor: € 0.55
+Krause Circulação normal · KM# 775
+
+Pais : França 10 cêntimos, 1998
+marca 
+Desc : Alumínio-Bronze, 3g, 20mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 929
+
+Pais : Reino Unido 1 penny novo, 1980
+marca 
+Desc : Bronze, 3.56g, 20.32mm
+:
+valor: € 0.08
+Krause Circulação normal · KM# 915
+
+Pais : Bélgica 1 franco, 1958
+marca 
+Desc : Cupro-Níquel, 4g, 21mm
+:Legenda em Holandês - 'BELGIË'
+valor: € 0.09
+Krause Circulação normal · KM# 143
+
+Pais : Brasil 1 real, 2020
+marca 
+Desc : Bimetálica: centro de Aço inoxidável, anel de Aço com revestimento de Bronze, 7g, 27mm
+:
+valor: € 0.43
+Krause Circulação normal · KM# 652a
+
+Pais : Áustria 5 cêntimos de euro, 2012
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.06
+Krause Circulação normal · KM# 3084
+
+Pais : Brasil 50 centavos, 2020
+marca 
+Desc : Aço inoxidável, 7.81g, 23mm
+:
+valor: € 0.19
+Krause Circulação normal · KM# 651a
+
+Pais : Brasil 5 centavos, 2020
+marca 
+Desc : Aço com revestimento de Cobre, 4.06g, 21.9mm
+:
+valor: € 0.22
+Krause Circulação normal · KM# 648
+
+Pais : Estados Unidos da América 1 cêntimo, 1969
+marca Cunhagem: "D" - Denver
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.15
+Krause Circulação normal · KM# 201
+
+Pais : Brasil 25 centavos, 2020
+marca 
+Desc : Aço com revestimento de Latão, 7.55g, 25mm
+:
+valor: € 0.31
+Krause Circulação normal · KM# 650
+
+Pais : Brasil 10 centavos, 2020
+marca 
+Desc : Aço com revestimento de Latão, 4.8g, 20mm
+:
+valor: € 0.23
+Krause Circulação normal · KM# 649.2
+
+Pais : Espanha 1 peseta, 1966
+marca 73 inside the star
+Desc : Alumínio-Bronze, 3.5g, 21mm
+:
+valor: € 0.20
+Krause Circulação normal · KM# 796
+
+Pais : França 5 cêntimos de euro, 2014
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.05
+Krause Circulação normal · KM# 1284
+
+Pais : Suécia 1 coroa, 2003
+marca 
+Desc : Cupro-Níquel, 7g, 25mm
+:
+valor: € 1.00
+Krause Circulação normal · KM# 894
+
+Pais : Holanda 10 cêntimos, 1968
+marca 
+Desc : Níquel, 1.5g, 15mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 182
+
+Pais : Dinamarca 10 ore, 1980
+marca 
+Desc : Cupro-Níquel, 3g, 18mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 860
+
+Pais : Suécia 10 coroas, 1991
+marca 
+Desc : Ouro nórdico, 6.6g, 20.5mm
+:
+valor: € 1.12
+Krause Circulação normal · KM# 877
+
+Pais : Paraguai 100 guaranis, 2012
+marca 
+Desc : Níquel-Aço, 3.72g, 21mm
+:
+valor: € 0.74
+Krause Circulação normal · KM# 177b
+
+Pais : Paraguai 500 guaranis, 2007
+marca 
+Desc : Níquel-Aço, 4.75g, 23mm
+:
+valor: € 0.91
+Krause Circulação normal · KM# 195a
+
+Pais : México 50 centavos, 2008
+marca 
+Desc : Alumínio-Bronze, 4.39g, 22mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 549
+
+Pais : Índia 5 rúpias, 2015
+marca S/marca de cunhagem - Calcutá
+Desc : Níquel-Latão, 6.1g, 23mm
+:
+valor: € 0.21
+Krause Circulação normal · KM# 399
+
+Pais : África do Sul 2 rand, 1989
+marca 
+Desc : Cobre com revestimento de Níquel, 5.35g, 23mm
+:
+valor: € 0.68
+Krause Circulação normal · KM# 139
+
+Pais : Emirados Árabes Unidos 1 dirham, 2005
+marca 
+Desc : Cupro-Níquel, 6.5g, 24mm
+:
+valor: € 0.53
+Krause Circulação normal · KM# 6.2
+
+Pais : Gana 50 pesewas, 2007
+marca 
+Desc : Aço com revestimento de Níquel, 6.08g, 26.4mm
+:
+valor: € 0.81
+Krause Circulação normal · KM# 41
+
+Pais : Reino Unido 20 pence, 2015
+marca 
+Desc : Cupro-Níquel, 5g, 21.4mm
+:
+valor: € 0.27
+Krause Circulação normal · KM# 1336
+
+Pais : Reino Unido 20 pence, 1997
+marca 
+Desc : Cupro-Níquel, 5g, 21.4mm
+:
+valor: € 0.77
+Krause Circulação normal · KM# 939
+
+Pais : Reino Unido 5 pence, 2001
+marca 
+Desc : Cupro-Níquel, 3.25g, 18mm
+:
+valor: € 0.22
+Krause Circulação normal · KM# 988
+
+Pais : França 1 franco, 1944
+marca 
+Desc : Alumínio, 1.6g, 23mm
+:
+valor: 
+Krause Circulação normal · KM# 902
+
+Pais : Japão 5 ienes, 1972
+marca 
+Desc : Latão, 3.75g, 22mm
+:
+valor: € 0.24
+Krause Circulação normal · Y# 72a
+
+Pais : Japão 100 ienes, 1971
+marca 
+Desc : Cupro-Níquel, 4.8g, 22.6mm
+:
+valor: € 0.90
+Krause Circulação normal · Y# 82
+
+Pais : China 1 fen, 1991
+marca 
+Desc : Alumínio, 0.67g, 18mm
+:
+valor: € 0.23
+Krause Circulação normal · KM# 1
+
+Pais : Estados Unidos da América 5 cêntimos, 1984
+marca Cunhagem: "P" - Filadélfia
+Desc : 
+:Jefferson Nickel
+
+
+valor: € 0.15
+Krause Circulação normal · KM# A192
+
+Pais : Estados Unidos da América 1 cêntimo, 1999
+marca S/marca de cunhagem
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.10
+Krause Circulação normal · KM# 201b
+
+Pais : Estados Unidos da América 1 cêntimo, 1989
+marca S/marca de cunhagem
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.13
+Krause Circulação normal · KM# 201b
+
+Pais : Estados Unidos da América 1 cêntimo, 1987
+marca S/marca de cunhagem
+Desc : 
+:Cêntimo de Lincoln
+valor: € 0.12
+Krause Circulação normal · KM# 201b
+
+Pais : Brasil 10 centavos, 1943
+marca 
+Desc : Alumínio-Bronze, 2.97g, 17.22mm
+:Getúlio Vargas
+valor: € 1.01
+Krause Circulação normal · KM# 555a
+
+Pais : Brasil 10 centavos, 1956
+marca 
+Desc : Alumínio, 1.1g, 17.3mm
+:
+valor: € 0.93
+Krause Circulação normal · KM# 564
+
+Pais : Brasil 50 centavos, 1958
+marca 
+Desc : Alumínio, 1.83g, 21.07mm
+:
+valor: € 2.15
+Krause Circulação normal · KM# 569
+
+Pais : Bahamas 1 cêntimo, 2006
+marca 
+Desc : Zinco com revestimento de Cobre, 2.5g, 19mm
+:
+valor: € 0.32
+Krause Circulação normal · KM# 218.1
+
+Pais : Hong Kong 10 Dólares, 1995
+marca 
+Desc : Bimetálica: centro de Latão, anel de Cupro-Níquel, 11g, 24mm
+:
+valor: € 2.26
+Krause Circulação normal · KM# 70
+
+Pais : Austrália 2 dólares, 2004
+marca 
+Desc : Alumínio-Bronze, 6.6g, 20.5mm
+:
+valor: € 1.53
+Krause Circulação normal · KM# 406
+
+Pais : Canadá 1 cêntimo, 1985
+marca 
+Desc : Bronze, 2.5g, 19.1mm
+:
+valor: € 0.12
+Krause Circulação normal · KM# 132
+
+Pais : Canadá 1 cêntimo, 2008
+marca 
+Desc : Aço com revestimento de Cobre, 2.35g, 19.05mm
+:
+valor: € 0.17
+Krause Circulação normal · KM# 490a
+
+Pais : Peru 1 novo sol, 2011
+marca 
+Desc : Cupro-Níquel, 7.32g, 25.5mm
+:
+valor: € 0.34
+Krause Circulação normal · KM# 308.4
+
+Pais : Paraguai 50 cêntimos, 1953
+marca 
+Desc : Alumínio-Bronze, 4.54g, 25mm
+:
+valor: € 1.28
+Krause Circulação normal · KM# 28
+
+Pais : Colômbia 100 pesos, 2006
+marca 
+Desc : Latão, 5.3g, 23mm
+:
+valor: € 0.43
+Krause Circulação normal · KM# 285
+
+Pais : Chile 10 pesos, 2007
+marca 
+Desc : Níquel-Latão, 3.5g, 21mm
+:
+valor: € 0.19
+Krause Circulação normal · KM# 228
+
+Pais : Chile 1 peso, 1999
+marca 
+Desc : Alumínio, 0.7g, 16mm
+:
+valor: € 0.23
+Krause Circulação normal · KM# 231
+
+Pais : Argentina 10 centavos, 1942
+marca 
+Desc : Cupro-Níquel, 3g, 19.3mm
+:
+valor: € 1.22
+Krause Circulação normal · KM# 35
+
+Pais : Argentina 1000 australes, 1990
+marca 
+Desc : Alumínio, 1.95g, 24.1mm
+:
+valor: € 2.40
+Krause Circulação normal · KM# 105
+
+Pais : Argentina 1 peso, 2010
+marca 
+Desc : Bimetálica: centro de Alumínio-Bronze, anel de Cupro-Níquel, 6.35g, 23mm
+:Bicentenário da Argentina - El Palmar
+valor: € 1.03
+Krause Comemorativa · KM# 156
+
+Pais : Argentina 25 centavos, 1994
+marca 
+Desc : Cupro-Níquel, 6.1g, 24.2mm
+:
+valor: € 0.36
+Krause Circulação normal · KM# 110a
+
+Pais : Argentina 25 centavos, 2009
+marca 
+Desc : Alumínio-Bronze, 5.4g, 24.2mm
+:
+valor: € 0.29
+Krause Circulação normal · KM# 110.1
+
+Pais : Argentina 5 centavos, 2009
+marca 
+Desc : Aço com revestimento de Latão, 2g, 17.2mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 109b
+
+Pais : Reino Unido 20 pence, 2004
+marca 
+Desc : Cupro-Níquel, 5g, 21.4mm
+:
+valor: € 0.33
+Krause Circulação normal · KM# 990
+
+Pais : Alemanha 1 marco, 1989
+marca Cunhagem "G" - Karlsruhe
+Desc : Cupro-Níquel, 5.5g, 23.5mm
+:
+valor: € 1.67
+Krause Circulação normal · KM# 110
+
+Pais : Alemanha 10 pfennig, 1950
+marca Cunhagem: "J" - Hamburgo
+Desc : Aço com revestimento de Latão, 4g, 21.5mm
+:
+valor: € 0.19
+Krause Circulação normal · KM# 108
+
+Pais : Alemanha 5 pfennig, 1950
+marca Cunhagem: "J" - Hamburgo
+Desc : Aço com revestimento de Latão, 3g, 18.5mm
+:
+valor: € 0.14
+Krause Circulação normal · KM# 107
+
+Pais : Espanha 5 pesetas, 1996
+marca 
+Desc : Alumínio-Bronze, 3g, 17.5mm
+:La Rioja
+valor: € 0.35
+Krause Circulação normal · KM# 960
+
+Pais : Suíça 20 rappen, 1953
+marca 
+Desc : Cupro-Níquel, 4g, 21.05mm
+:
+valor: € 0.62
+Krause Circulação normal · KM# 29a
+
+Pais : Suíça 5 rappen, 1992
+marca 
+Desc : Alumínio-Bronze, 1.8g, 17.15mm
+:
+valor: € 0.37
+Krause Circulação normal · KM# 26c
+
+Pais : Suíça 5 rappen, 1982
+marca 
+Desc : Alumínio-Bronze, 1.8g, 17.15mm
+:
+valor: € 0.56
+Krause Circulação normal · KM# 26c
+
+Pais : Suíça 10 rappen, 1980
+marca 
+Desc : Cupro-Níquel, 3g, 19.15mm
+:
+valor: € 0.24
+Krause Circulação normal · KM# 27
+
+Pais : Suíça ½ franco, 1972
+marca 
+Desc : Cupro-Níquel, 2.2g, 18.2mm
+:
+valor: € 0.52
+Krause Circulação normal · KM# 23a
+
+Pais : Suíça 2 francos, 1968
+marca S/marca de cunhagem
+Desc : Cupro-Níquel, 8.8g, 27.4mm
+:
+valor: € 1.92
+Krause Circulação normal · KM# 21a
+
+Pais : Suíça 1 franco, 1987
+marca 
+Desc : Cupro-Níquel, 4.4g, 23.2mm
+:
+valor: € 1.03
+Krause Circulação normal · KM# 24a
+
+Pais : Suíça 5 francos, 1973
+marca 
+Desc : Cupro-Níquel, 13.2g, 31.45mm
+:
+valor: € 4.93
+Krause Circulação normal · KM# 40a
+
+Pais : França 5 francos, 1991
+marca Alinhamento Moeda (180°)
+Desc : Níquel com revestimento de Cupro-Níquel, 10g, 29mm
+:
+valor: € 0.49
+Krause Circulação normal · KM# 926a
+
+Pais : França 1 franco, 1960
+marca 
+Desc : Níquel, 6g, 24mm
+:
+valor: € 0.16
+Krause Circulação normal · KM# 925
+
+Pais : França 2 francos, 1979
+marca 
+Desc : Níquel, 7.5g, 26.5mm
+:
+valor: € 0.26
+Krause Circulação normal · KM# 942.1
+
+Pais : França ½ franco, 1976
+marca 
+Desc : Níquel, 4.5g, 19.5mm
+:
+valor: € 0.10
+Krause Circulação normal · KM# 931
+
+Pais : Itália 200 liras, 1979
+marca 
+Desc : Alumínio-Bronze, 5g, 24mm
+:
+valor: € 0.11
+Krause Circulação normal · KM# 105
+
+Pais : Itália 50 liras, 1973
+marca 
+Desc : Aço inoxidável, 6.2g, 24.8mm
+:
+valor: € 0.15
+Krause Circulação normal · KM# 95.1
+
+Pais : Itália 100 liras, 1981
+marca 
+Desc : Aço inoxidável, 8g, 27.8mm
+:
+valor: € 0.15
+Krause Circulação normal · KM# 96.1
+
+Pais : Itália 2 euro, 2002
+marca 
+Desc : Bimetálica: núcleo de Níquel banhado em Níquel-Latão, anel de Cupro-Níquel, 8.5g, 25.75mm
+:
+valor: € 2.00
+Krause Circulação normal · KM# 217
+
+Pais : Irlanda 10 cêntimos de euro, 2002
+marca 
+Desc : Ouro nórdico, 4.1g, 19.75mm
+:
+valor: € 0.10
+Krause Circulação normal · KM# 35
+
+Pais : Brasil 50 centavos, 2019
+marca Com cunhagem "A"
+Desc : Aço inoxidável, 7.81g, 23mm
+:
+valor: € 0.32
+Krause Circulação normal · KM# 651a
+
+Pais : Brasil 5 centavos, 2019
+marca Com cunhagem "A"
+Desc : Aço com revestimento de Cobre, 4.06g, 21.9mm
+:
+valor: € 0.34
+Krause Circulação normal · KM# 648
+
+Pais : Estados Unidos da América ½ dólar, 1967
+marca 
+Desc : Prata 0.400, 11.5g, 30.6mm
+:1/2 dólar - Kennedy
+valor: € 4.83
+Krause Circulação normal · KM# 202a
+
+Pais : Uruguai 5 pesos, 2005
+marca 
+Desc : Alumínio-Bronze, 6.27g, 26mm
+:
+valor: € 0.27
+Krause Circulação normal · KM# 120.2
+
+Pais : Uruguai 2 centésimos, 1951
+marca 
+Desc : Cobre-Zinco, 3.5g, 20mm
+:
+valor: € 0.92
+Krause Circulação normal · KM# 20a
+
+Pais : Uruguai 2 centésimos, 1949
+marca 
+Desc : Cobre-Zinco, 3.5g, 20mm
+:
+valor: € 1.23
+Krause Circulação normal · KM# 20a
+
+Pais : Uruguai 25 centésimos, 1960
+marca 
+Desc : Cupro-Níquel, 3g, 18mm
+:
+valor: € 0.92
+Krause Circulação normal · KM# 40
+
+Pais : Uruguai 50 centésimos, 1960
+marca 
+Desc : Cupro-Níquel, 4.5g, 22mm
+:
+valor: € 0.52
+Krause Circulação normal · KM# 41
+
+Pais : Argentina 5 pesos, 1985
+marca 
+Desc : Latão, 3.6g, 19.5mm
+:
+valor: € 0.75
+Krause Circulação normal · KM# 92
+
+Pais : Argentina 50 centavos, 1975
+marca 
+Desc : Latão, 4.11g, 21mm
+:
+valor: € 0.51
+Krause Circulação normal · KM# 68
+
+Pais : Argentina 5 centavos, 1945
+marca 
+Desc : Alumínio-Bronze, 2g, 17mm
+:
+valor: € 0.45
+Krause Circulação normal · KM# 40
+
+Pais : Argentina 20 centavos, 1952
+marca 
+Desc : Cupro-Níquel, 4g, 21.3mm
+:
+valor: € 0.32
+Krause Circulação normal · KM# 48
+
+Pais : Argentina 20 centavos, 1943
+marca 
+Desc : Alumínio-Bronze, 4.2g, 21.2mm
+:
+valor: € 0.45
+Krause Circulação normal · KM# 42
+
+Pais : Argentina 1 peso, 1960
+marca 
+Desc : Aço com revestimento de Níquel, 6.6g, 25.9mm
+:
+150º aniversário da Revolução de Maio
+valor: € 1.35
+Krause Comemorativa · KM# 58
+
+Pais : Brasil 200 reis, 1931
+marca 
+Desc : Cupro-Níquel, 7.8g, 25mm
+:
+valor: € 2.20
+Krause Circulação normal · KM# 519
+
+Pais : Brasil 100 reis, 1931
+marca 
+Desc : Cupro-Níquel, 4.95g, 21.3mm
+:
+valor: € 1.51
+Krause Circulação normal · KM# 518
+
+Pais : Reino Unido 3 pence, 1942
+marca 
+Desc : Níquel-Latão, 6.86g, 21.6mm
+:Niquel latão, amarelo
+valor: € 0.42
+Krause Circulação normal · KM# 849
+
+Pais : Brasil 5 centavos, 2019
+marca 
+Desc : Aço com revestimento de Cobre, 4.06g, 21.9mm
+:
+valor: 
+Krause Circulação normal · KM# 648
+
+Pais : Brasil 50 centavos, 2019
+marca 
+Desc : Aço inoxidável, 7.81g, 23mm
+:
+valor: 
+Krause Circulação normal · KM# 651a
+
+Pais : Eslováquia 10 cêntimos de euro, 2009
+marca 
+Desc : Ouro nórdico, 4.1g, 19.75mm
+:
+valor: € 0.10
+Krause Circulação normal · KM# 98
+
+Pais : Luxemburgo 10 cêntimos de euro, 2004
+marca 
+Desc : Ouro nórdico, 4.1g, 19.75mm
+:
+valor: € 0.11
+Krause Circulação normal · KM# 78
+
+Pais : Bahamas 1 cêntimo, 2015
+marca 
+Desc : Aço com revestimento de Cobre, 1.75g, 17mm
+:
+valor: € 0.24
+Krause Circulação normal · KM# 218.3
+
+Pais : Portugal 10 centavos, 1950
+marca 
+Desc : Bronze, 2g, 17.5mm
+:
+valor: € 0.56
+Krause Circulação normal · KM# 583
+
+Pais : Paraguai 500 guaranis, 2012
+marca 
+Desc : Níquel-Aço, 4.75g, 23mm
+:
+valor: € 0.95
+Krause Circulação normal · KM# 195a
+
+Pais : Uruguai 10 centésimos, 1976
+marca 
+Desc : Alumínio-Bronze, 3g, 18.5mm
+:
+valor: € 0.78
+Krause Circulação normal · KM# 66
+
+Pais : Uruguai 10 centésimos, 1960
+marca 
+Desc : Níquel-Latão, 4.5g, 24mm
+:
+valor: € 0.29
+Krause Circulação normal · KM# 39
+
+Pais : Brasil 1 real, 2019
+marca 
+Desc : Bimetálica: centro de Aço inoxidável, anel de Aço com revestimento de Bronze, 7g, 27mm
+:Aniversário de 25 anos do Plano Real
+valor: € 1.14
+Krause Comemorativa · UC# 100
+
+Pais : Brasil 25 centavos, 2019
+marca 
+Desc : Aço com revestimento de Latão, 7.55g, 25mm
+:
+valor: € 0.33
+Krause Circulação normal · KM# 650
+
+Pais : Chile 10 pesos, 1958
+marca 
+Desc : Alumínio, 2.96g, 29mm
+:
+valor: € 0.67
+Krause Circulação normal · KM# 181
+
+Pais : Paquistão 1 rúpia, 2015
+marca 
+Desc : Alumínio, 1.75g, 20mm
+:
+valor: € 0.96
+Krause Circulação normal · KM# 67
+
+Pais : Jugoslávia 10 dinara, 1963
+marca 
+Desc : Alumínio-Bronze, 3.1g, 21mm
+:
+valor: € 0.20
+Krause Circulação normal · KM# 39
+
+Pais : Indonésia 100 rúpias, 1999
+marca 
+Desc : Alumínio, 1.79g, 23mm
+:
+valor: € 0.30
+Krause Circulação normal · KM# 61
+
+Pais : Peru 10 soles, 1978
+marca 
+Desc : Latão, 5.65g, 24.48mm
+:
+valor: 
+Krause Circulação normal · KM# 272
+
+Pais : Peru 1 sol, 1976
+marca 
+Desc : Latão, 3.24g, 21mm
+:
+valor: € 0.28
+Krause Circulação normal · KM# 266.1
+
+Pais : Uruguai 5 centésimos, 1909
+marca 
+Desc : Cupro-Níquel, 5g, 23mm
+:
+valor: € 0.93
+Krause Circulação normal · KM# 21
+
+Pais : Uruguai 50 pesos novos, 1989
+marca 
+Desc : Aço inoxidável, 4.8g, 23mm
+:
+valor: € 0.40
+Krause Circulação normal · KM# 94
+
+Pais : Uruguai 5 centésimos, 1960
+marca 
+Desc : Níquel-Latão, 3.5g, 20mm
+:
+valor: € 0.28
+Krause Circulação normal · KM# 38
+
+Pais : Uruguai 10 pesos novos, 1989
+marca 
+Desc : Aço inoxidável, 2.94g, 18mm
+:
+valor: € 0.45
+Krause Circulação normal · KM# 93
+
+Pais : Alemanha 10 cêntimos de euro, 2002
+marca Cunhagem "D" - Munique
+Desc : Ouro nórdico, 4.1g, 19.75mm
+:
+valor: € 0.10
+Krause Circulação normal · KM# 210
+
+Pais : Espanha 5 cêntimos de euro, 2017
+marca 
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.05
+Krause Circulação normal · KM# 1146
+
+Pais : Alemanha 5 cêntimos de euro, 2017
+marca Cunhagem "G" - Karlsruhe
+Desc : Aço com revestimento de Cobre, 3.92g, 21.25mm
+:
+valor: € 0.05
+Krause Circulação normal · KM# 209
+

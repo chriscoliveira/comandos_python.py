@@ -12,7 +12,7 @@ def search(link):
 def retorna_materias(link, tag_bloco, tag_titulo, tag_link=None, tag_horario=None, research=None):
     pagina = requests.get(link)
     soup = BeautifulSoup(pagina.text, 'html.parser')
-    arquivo = open('resultado.txt', 'w')
+    arquivo = open('resultado.html', 'w')
     # html
     # arquivo.write(f'<br><table><tr><td colspan="2"><h2>Notícias de {link}</td></tr>')
     arquivo.write(f'Notícias de {link}\n')
