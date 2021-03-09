@@ -3,6 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/web_scraping/buscando_precos/resultado.txt" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/web_scraping/resultado.html" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/web_scraping/resultado.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/web_scraping/resultado.txt" charset="UTF-8" />
   </component>
 </project>

@@ -1,0 +1,5 @@
+[790131:790131:0309/101309.861850:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[790095:790095:0309/101312.462934:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://pt.ucoin.net/coin/spain-1-peseta-1997/?ucid=40433543 (0)
+[790133:790143:0309/101327.900879:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
+[790133:790143:0309/101327.900929:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
+[790095:790095:0309/101327.964788:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
