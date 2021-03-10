@@ -19,7 +19,7 @@ def baixar(url, nome):
             handle.write(block)
 
 
-def buscar(url):
+def buscar(url, pagina):
     colecao = []
     req = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(req.content, 'html.parser')
@@ -28,33 +28,46 @@ def buscar(url):
 
     for item in itens:
         link = item.find('a', class_='blue-15')
-        arquivo.write(str(buscar_info('https://pt.ucoin.net/' + link['href'])) + '\n')
+        arquivo.write(str(buscar_info('https://pt.ucoin.net/' + link['href'], pagina)) + '\n')
 
     arquivo.close()
 
 
-def buscar_info(url):
+def buscar_info(url, pagina):
     colecao = []
     req = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
     soup = BeautifulSoup(req.content, 'html.parser')
-    linhas = soup.find_all('table', {'class': 'coin-info'})
+
+    linhas = soup.find_all('div', {'class': 'centerCol'})
     infos = []
-    pais = '-'
-    ano = '-'
-    krause = '-'
-    valor = '-'
-    moeda = '-'
+    pais = ' '
+    ano = ' '
+    krause = ' '
+    valor = ' '
+    moeda = ' '
     tipo = 'Moeda'
-    qualidade = '-'
-    material = '-'
-    diametro = '-'
-    detalhe = '-'
-    anverso = '-'
-    reverso = '-'
-    datacadastro = '-'
-    file = open('bancoMoedas.txt', 'a+')
+    qualidade = ' '
+    material = ' '
+    diametro = ' '
+    detalhe = ' '
+    anverso = ' '
+    reverso = ' '
+    datacadastro = ' '
+    variacao = ' '
+    file = open(str(pagina) + '_ucoin.txt', 'a+')
     for linha in linhas:
         itens = linha.findAll('tr')
+        try:
+            variacao = str(linha.findAll('h4')).replace('<h4>', '').replace('</h4>', '').replace('"', '').replace('[',
+                                                                                                                  '').replace(
+                ']', '').upper()
+        except :
+            variacao = 'VERIFICAR ERROR'
+        venda = str(linha.find_all('a', {'class': 'right'})).replace(
+            '[<a class="gray-12 right pricewj" href="#price">Preço: € <span>', '').replace('</span></a>]', '').replace('[','').replace(']','')
+
+        if not venda == '':
+            venda = round(float(venda) * 6.74, 2)
         for item in itens:
             campo = str(item.findAll('th')).replace('<th>', '').replace('</th>', '').replace('[', '').replace(']', '') \
                 .replace('<th class="nowrap">', '').replace('(', '').replace(')', '')
@@ -62,7 +75,8 @@ def buscar_info(url):
             info = str(item.findAll('td')).replace('<td>', '').replace('</td>', '').replace('[', '').replace(']', '') \
                 .replace('<span class="lgray-11">', '').replace('</span>', '').replace('\xa0', ' ') \
                 .replace('<td class="gray-11" style="text-align:right"><b>', '').replace('</b>', '') \
-                .replace('<b class="blue-11">', '')
+                .replace('<b class="blue-11">', '').replace(
+                '<SPAN CLASS="LTR" STYLE="FONT-FAMILY: DC;FONT-SIZE: 13PX;">', '')
             info = unidecode(info.upper())
 
             if campo == 'PAIS':
@@ -72,7 +86,9 @@ def buscar_info(url):
             elif campo == 'NUMERO KRAUSE':
                 krause = info
             elif campo == 'DENOMINACAO':
-                valor = info
+                value = info.split()
+                valor = value[0]
+                moeda = str(value[1:]).replace("'", '').replace(',', '').replace('[', '').replace(']', '')
             elif campo == 'COMPOSICAO':
                 material = info
             elif campo == 'DIAMETRO MM':
@@ -82,7 +98,7 @@ def buscar_info(url):
             elif campo == 'REVERSO':
                 reverso = info
             elif campo == 'PERIODO':
-                detalhe += 'PEDIODO ' + info + ' - '
+                detalhe += info + ' - '
             elif campo == 'TIPO DE MOEDA':
                 detalhe += 'CIRCULACAO ' + info + ' - '
             elif campo == 'SOBERANO':
@@ -91,23 +107,27 @@ def buscar_info(url):
                 detalhe += 'BORDA ' + info + ' - '
             elif campo == 'ALINHAMENTO':
                 detalhe += 'ALINHAMENTO ' + info + ' - '
-            elif campo == 'PESO (GR)':
+            elif campo == 'PESO GR':
                 detalhe += 'PESO ' + info + 'GR - '
-            elif campo == 'ESPESSURA (MM)':
+            elif campo == 'ESPESSURA MM':
                 detalhe += 'ESPESSURA ' + info + 'MM '
-
+    print(pais, venda,variacao)
     file.write(
-        f"INSERT INTO Colecao (pais, ano, krause, valor, moeda, tipo, qualidade, material, diametro, detalhe, "
-        f"anverso, reverso) VALUES ('{pais}', {ano}, '{krause}', '{valor}', '{moeda}', '{tipo}', '{qualidade}',"
-        f" '{material}', '{diametro}', '{detalhe}', '{anverso}', '{reverso}');\n"
+        f"INSERT INTO Colecao (pais,ano,krause,valor,moeda,tipo,qualidade,material,diametro,detalhe,anverso,reverso,"
+        f"datacadastro) VALUES ('{pais.capitalize()}', {ano}, '{krause}', '{valor}', '{moeda}', '{tipo}', "
+        f"'{qualidade}', '{material}', '{diametro}', '{variacao.encode('utf8')} {detalhe}', '{anverso}', '{reverso}', '{venda}');\n"
     )
+
     file.close()
     return infos
 
 
 if __name__ == '__main__':
     # buscar('https://pt.ucoin.net/gallery/?uid=26638&page=0')
-    buscar_info('https://pt.ucoin.net//coin/spain-1-peseta-1997/?ucid=40433543')
+    # buscar_info('https://pt.ucoin.net/coin/france-1-franc-1944/?ucid=34241015',3)
+    #
     for i in range(100):
-        buscar('https://pt.ucoin.net/gallery/?uid=26638&page=' + str(i))
-        print('https://pt.ucoin.net/gallery/?uid=26638&page=' + str(i))
+        print(i)
+        if i > 95 and i < 100:
+            buscar('https://pt.ucoin.net/gallery/?uid=26638&page=' + str(i), i)
+            print(str(i)+'-')

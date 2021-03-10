@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\web_scraping\34_ucoin.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\web_scraping\bancoMoedas 1-19.txt">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\web_scraping\buscando_moedas.py">
           <value>
             <Attribute>
@@ -35,6 +49,13 @@
           <value>
             <Attribute>
               <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\web_scraping\teste.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
