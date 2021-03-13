@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e05c9e5-0bf1-4965-b068-27afb88aadbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web_scraping/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/comandos_python.py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/comandos_python.py.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraping/bancoMoedas.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraping/buscando_moedas.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraping/buscando_moedas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraping/resultado.csv" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraping/resultado.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraping/resultado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraping/resultado_i.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="8e05c9e5-0bf1-4965-b068-27afb88aadbd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +27,11 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/POO/classe abstrata/conta.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/usando_json/main.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/movendo arquivos com shutil.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/POO/heranca/classes.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/usando_json/main.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/POO/classe abstrata/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/POO/classe abstrata/conta.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1nW0UtdT6l1x24FwrPspjelu0KO" />
   <component name="ProjectLevelVcsManager">
@@ -58,8 +47,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_scraping" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csv moedas ucoin" />
+    <property name="settings.editor.selected.configurable" value="Csv.Editor.Settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">

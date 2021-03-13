@@ -126,8 +126,8 @@ if __name__ == '__main__':
     # buscar('https://pt.ucoin.net/gallery/?uid=26638&page=0')
     # buscar_info('https://pt.ucoin.net/coin/france-1-franc-1944/?ucid=34241015',3)
     #
-    for i in range(100):
+    for i in range(110):
         print(i)
-        if i > 95 and i < 100:
+        if i > 99 and i < 109:
             buscar('https://pt.ucoin.net/gallery/?uid=26638&page=' + str(i), i)
             print(str(i)+'-')
