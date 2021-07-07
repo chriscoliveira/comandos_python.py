@@ -1,0 +1,9 @@
+E aí Dev, olha como é fácil enviar SMS usando os serviços da AWS integrados com Python 👨🏽‍💻🤓🦾
+
+Nesse exemplo utilizamos o serviço SNS através da lib boto3, a lib oficial da AWS para Python 📚
+
+Para ter acesso a esse e outros códigos basta acessar nosso GitHub através do link na nossa bio 🦾👉🏼
+.
+.
+.
+#python #pythonprogramming #programação #programacao #code #coding #coderlife #codinglife #codingisfun #codinglife💻 #programming #programmer #programmers #programmerlife #ti #tech #dev #cienciadacomputacao #ciênciadacomputação #programador #programadores #programadorweb

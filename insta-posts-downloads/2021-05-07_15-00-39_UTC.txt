@@ -1,0 +1,6 @@
+Alô Dev, se liga que da hora esse exemplo de envio de email usando o serviço SES da AWS através da lib oficial deles Boto3 👨🏽‍💻🤓
+Se você quer mais conteúdo sobre AWS e outros clouds deixa seu comentário aí em baixo ☁️👇🏽
+.
+.
+.
+#pythonprogramming #python #programação #programacao #programador #programadorpython #aws #programmer_py #programming #programmers #programmer #ti #tech #dev #pythonlearning #desenvolvedor

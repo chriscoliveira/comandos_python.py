@@ -1,0 +1,7 @@
+E ai Dev, olha como é simples de fazer requisições para uma Api usando Python 👨🏾‍💻
+
+Nesse exemplo utilizamos a Api de estatísticas de Covid-19 que está disponível para testes no site Rapid Api. Basta acessar o link que está no comentário do código para se cadastrar e testar a Api.🦾
+
+Esse e outros códigos estão disponíveis DE GRAÇA no nosso GitHub oficial, é só acessar o link na bio do nosso perfil 👉🏽👉🏽
+
+#python #pythonprogramming #programação #programacao #programador #programadorpython #programadores #programadorweb #desenvolvedor #desenvolvedorweb #desenvolvedores #java #programadorjava #javadeveloper #programming #programmer #programmers #ciênciadacomputação #cienciadacomputacao #ti #tech #dev #code #coderlife #coding #codinglife #codingfun #codingisfun #codinglife #codinglife💻

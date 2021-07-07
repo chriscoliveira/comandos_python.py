@@ -178,7 +178,7 @@ def gerar_cod_barra():
         EAN13('1234567891026', writer=ImageWriter()).write(f)
 
 
-def criar_diagrama(): #esta com erro
+def criar_diagrama():  # esta com erro
     from diagrams import Cluster, Diagram
     from diagrams.aws.compute import ECS
     from diagrams.aws.database import Elasticache, RDS
@@ -199,7 +199,8 @@ def criar_diagrama(): #esta com erro
         svc_group >> db_master
         svc_group >> memcached
 
-def encurtador_url(): # esta com erro
+
+def encurtador_url():  # esta com erro
     import pyshorteners
 
     url = 'https://www.google.com.br'
@@ -210,3 +211,26 @@ def encurtador_url(): # esta com erro
 
     print(f'a URL "{url}" encurtada é {shortUrl}')
 
+
+def baixar_post_instagram():
+    from datetime import datetime
+    import instaloader
+
+    # carrega a lob e faz login com a conta
+    L = instaloader.Instaloader()
+    # L.login('christian.coliveira@gmail.com', '8480151624')
+
+    # carrega todos os posts do perfil
+    posts = instaloader.Profile.from_username(L.context, 'pycodebr').get_posts()
+
+    # periodo que deseja baixar os posts
+    SINCE = datetime(2020, 1, 16)
+    UNTIL = datetime(2021, 7, 18)
+
+    # percorre os posts e baixa apenas os que estao dentro do periodo desejado
+    for post in posts:
+        if (post.date >= SINCE) and (post.date <= UNTIL):
+            print(post.date)
+            L.download_post(post, 'insta-posts-downloads')
+
+baixar_post_instagram()

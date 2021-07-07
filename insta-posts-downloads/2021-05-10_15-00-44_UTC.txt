@@ -1,0 +1,13 @@
+E ai Dev, você já ouviu falar em arquivos JSON? 👨🏽‍💻📄
+
+O JSON (JavaScript Object Notation) é basicamente um formato leve de troca de informações/dados entre sistemas. O JSON além de ter um formato leve para troca de dados é também muito simples de ler.
+
+Atualmente o JSON se tornou praticamente um protocolo padrão de comunicação entre sistemas, principalmente em Apis e integrações.
+
+Curtiu? Então deixe seu comentário abaixo 👇🏽
+
+Para ter acesso a esse código basta acessar nosso GitHub oficial através do link na nossa bio 🦾📚
+.
+.
+.
+#python #pythonprogramming #programação #programacao #code #coding #coderlife #codinglife #codinglife💻 #codingisfun #codingfun #programming #programmer #programmers #programmerlife #ti #tech #dev #json #cienciadacomputacao #ciênciadacomputação #programador #programadores #programadorweb #programadorpython

@@ -1,0 +1,7 @@
+E ai Dev, se liga nesse exemplo de como manipular Banco de Dados MySQL usando Python e a lib mysql-connector-python 👨🏾‍💻🦾
+
+Esse e outros códigos estão disponíveis no nosso GitHub oficial, basta acessar o link na bio do nosso perfil, corre lá 👉🏽
+.
+.
+.
+#python #pythonprogramming #bancodedados #bancodedadossql #bancodedadosrelacional #sql #sqldeveloper #sqldevelopers #sqldev #mysql #mysqlworkbench #mysqlserver #mysqldatabase #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #programming #programmingisfun #programmerhumor #code #coderlife #codeismylife #cienciadacomputacao #ciênciadacomputação #automacaopython #automaçãopython

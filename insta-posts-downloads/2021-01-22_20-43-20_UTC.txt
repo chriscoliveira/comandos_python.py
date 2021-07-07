@@ -1,0 +1,8 @@
+E ai Dev, vamos falar um pouco de nuvem (AWS) ☁️
+Boto3 é a lib oficial da AWS para você integrar sua aplicação Python com os serviços deles, como nesse exemplo em que enviamos um arquivo para o serviço de storage S3 👨🏽‍💻🦾☁️
+.
+Quer aprender mais sobre Python? Então acesse o link da nossa bio para mais informações 🤓👉🏼
+.
+.
+.
+#programação #pythonprogramming #aws #python #programacao #programming #programmer #coding #codinglife #ti #tech #dev #technology #desenvolvimento #desenvolvedor #programador #programadores

@@ -1,0 +1,14 @@
+Robô feito em Python + Selenium para fazer login no Facebook 👨🏽‍💻🤖🦾
+.
+.
+.
+Nos últimos anos as automações de processos vem crescendo, e com isso o surgimento de novas ferramentas para desenvolver essas automações também
+.
+.
+Um bom exemplo disso é a biblioteca SELENIUM Python, que auxilia no desenvolvimento dos chamados Robôs (bots ou crawlers) para Web!!!
+.
+.
+E aí, curtiu? Então nos siga para mais curiosidades como essa 🧠🤖👨🏽‍💻
+.
+.
+#python #selenium #seleniumwebdriver #dev #programador #programação #bot #robô #crawler #automacao #processos
