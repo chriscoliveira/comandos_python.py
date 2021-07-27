@@ -1,7 +1,0 @@
-Se liga nesse exemplo de como é fácil descobrir o IP de qualquer site usando Python 👨🏽‍💻🤓
-.
-Você pode acessar esse código através do GitHub oficial da Pycodebr, basta acessar o link da nossa bio 👉🏼👉🏼
-.
-.
-.
-#pythonprogramming #python #programação #programacao #programadorpython #programadores #programming #programmer #ti #dev #cienciasdacomputacao #informatica #informática #desenvolvedor

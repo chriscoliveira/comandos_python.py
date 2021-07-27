@@ -1,7 +1,0 @@
-E ai Dev, já ouviu falar em expressões lambda Python? 👨🏾‍💻
-
-É um conceito bastante poderoso e integrado à linguagem. O conceito em si é bastante simples: consiste em uma função que é atribuída a um objeto. Por conter a palavra reservada lambda o objeto se comportará como uma função. 😁
-
-As funções lambdas são muito usadas para simplificar o código, como no exemplo, onde  uma função comum do Python reescrita em forma de função lambda acaba tendo o mesmo resultado com menos linhas de código. 🤓🦾
-
-#python #pythonprogramming #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #programming #programminglife #programmings #programmingmemes #programmers #programmerlife #programmerslife💻 #programmingisfun #programmerhumor #programmerhumor #code #coderlife #codeismylife #codeislife #coding #codinglife #codingisfun #codingfun #cienciadacomputacao #ciênciadacomputação #ti

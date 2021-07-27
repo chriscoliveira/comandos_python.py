@@ -1,7 +1,0 @@
-E aí Dev, olha que massa esse exemplo de como enviar notificações para Área de Trabalho do usuário usando uma lib Python👨🏽‍💻🦾
-
-Você pode integrar essa lib com suas aplicações, já imaginou as possibilidades?😬
-.
-.
-.
-#python #pythonprogramming #programação #programacao #code #coding #coderlife #codinglife #codingisfun #codinglife💻 #programming #programmer #programmers #programmerlife #ti #tech #dev #cienciadacomputacao #programador #programadores #programadorweb

@@ -1,7 +1,0 @@
-E ai Dev, se liga em mais um exemplo de uso da lib instaloader para capturar informações de contas do Instagram. 👨🏾‍💻
-
-Nesse exemplo listamos todos os seguidores de uma conta, onde conseguimos capturar diversos dados como nome de usuário, nome completo, foto de perfil, biografia e informações de contato de cada seguidor. 😎
-
-Você pode acessar esse código no nosso Github oficial através do link na bio do nosso perfil 👉🏽👉🏽
-
-#python #pythonprogramming #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #programming #programminglife #programmings #programmingmemes #programmers #programmerlife #programmerslife💻 #programmingisfun #instagram #programmerhumor #code #coderlife #codeismylife #codeislife #coding #codinglife #codingisfun #codingfun #cienciadacomputacao #ciênciadacomputação #ti

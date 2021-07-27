@@ -1,7 +1,0 @@
-E ai Dev, olha que massa esse exemplo de uma aplicação para ler arquivos Excel usando as libs tkinter e pandas 👨🏾‍💻
-
-Confere esse código lá no nosso GitHub oficial através do link na bio do nosso perfil 👉🏽
-.
-.
-.
-#python #pythonprogramming #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #programming #programminglife #programmings #programmingmemes #programmers #programmerlife #programmerslife💻 #microsoftexcel #instagram #excel #code #coderlife #codeismylife #codeislife #coding #codinglife #codingisfun #codingfun #cienciadacomputacao #ciênciadacomputação #ti

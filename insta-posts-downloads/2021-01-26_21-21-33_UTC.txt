@@ -1,9 +1,0 @@
-E aí Dev, se liga que da hora esse script que eu fiz em Python para facilitar o deploy da minha aplicação no dia a dia 👨🏽‍💻🤓☁️
-.
-Esse script faz um zip do projeto na minha máquina que está com as alterações, sobe o zip para o serviço S3 da AWS e em seguida envia o novo código para todos os servidores que estão rodando a minha aplicação no EC2 da AWS ☁️
-.
-Um jeito fácil e divertido de dar deploy não é?👨🏽‍💻🤓☁️
-.
-.
-.
-#python #pythonprogramming #aws #cloud #cloudcomputing #programação #programacao #pythonprogramming #programming #programmer #ti #tech #dev #cienciadacomputacao

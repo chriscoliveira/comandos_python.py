@@ -1,5 +1,0 @@
-E ai Dev, você já conhecia esses dois conceitos? Comenta ai em baixo se você já usou algum desses Banco de Dados 👇🏾👨🏾‍💻🦾
-.
-.
-.
-#python #pythonprogramming #bancodedados #bancodedadossql #bancodedadosrelacional #sql #sqldeveloper #sqldevelopers #sqldev #mysql #mysqlworkbench #mysqlserver #mysqldatabase #programação #programacao #programador #programadores #cienciadacomputacao #ciênciadacomputação #automacaopython #automaçãopython #nosql #nosqldatabase #mongodb #cassandra #redis #postgresql #oracle #oracledba #oracledatabase

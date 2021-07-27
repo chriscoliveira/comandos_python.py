@@ -1,7 +1,0 @@
-E ai Dev, olha que massa essa lib para baixar conteúdos do Instagram.👨🏽‍💻🤓
-
-Com ela é possível baixar publicações e stories de qualquer conta do Instagram, além disso existem diversas opções para baixar outras informações como legendas, comentários, curtidas, posts salvos, seguidores e muito mais.🦾
-
-Esse código está disponível DE GRAÇA no nosso GitHub oficial, é só acessar o link na nossa bio e ir em "GitHub da Pycodebr" 👉🏼👉🏼
-
-#python #pythonprogramming #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #programming #programminglife #programmings #programmingmemes #programmers #programmerlife #programmerslife💻 #programmingisfun #instagram #programmerhumor #code #coderlife #codeismylife #codeislife #coding #codinglife #codingisfun #codingfun #cienciadacomputacao #ciênciadacomputação #ti

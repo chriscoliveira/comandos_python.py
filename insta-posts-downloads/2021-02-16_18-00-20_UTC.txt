@@ -1,7 +1,0 @@
-E ai Dev, se liga como é fácil montar gráficos com Python utilizando as libs Matplotlib e Numpy 👨🏾‍💻
-
-Com elas é possível montar diversos tipos de gráficos como o de barras, gráfico de pizza, gráfico de linhas, gráfico de colunas, entre outras configurações disponíveis.😎
-
-Curtiu? Então confere esse código lá no nosso GitHub oficial, é só acessar o link na bio do nosso perfil 👉🏽👉🏽
-
-#python #pythonprogramming #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #programming #programminglife #programmings #programmingmemes #programmers #programmerlife #programmerslife💻 #programmingisfun #programmerhumor #dev  #code #coderlife #codeismylife #codeislife #coding #codinglife #codingisfun #codingfun #cienciadacomputacao #ciênciadacomputação #ti
