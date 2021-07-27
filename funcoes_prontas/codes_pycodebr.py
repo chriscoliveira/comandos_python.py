@@ -17,8 +17,6 @@ def grafico_pizza():
 
 def qrcode():
     import pyqrcode
-    import png
-    from pyqrcode import QRCode
 
     # link para o qrcode
     string = 'https://google.com.br'
@@ -149,7 +147,6 @@ def estrair_zip():
 
 def transforma_img_em_cartoon():
     from cv2 import cv2
-    import numpy as np
 
     # carrega img
     img = cv2.imread(r'foto.jpg')
@@ -224,13 +221,26 @@ def baixar_post_instagram():
     posts = instaloader.Profile.from_username(L.context, 'pycodebr').get_posts()
 
     # periodo que deseja baixar os posts
-    SINCE = datetime(2020, 1, 16)
-    UNTIL = datetime(2021, 7, 18)
+    SINCE = datetime(2021, 7, 18)
+    UNTIL = datetime(2021, 7, 30)
 
     # percorre os posts e baixa apenas os que estao dentro do periodo desejado
     for post in posts:
         if (post.date >= SINCE) and (post.date <= UNTIL):
             print(post.date)
-            L.download_post(post, 'insta-posts-downloads')
+            L.download_post(post, '../pycodebr-posts-downloads')
 
-baixar_post_instagram()
+
+def lerplacasdecarro():
+    import easyocr
+
+    for i in range(8):
+        print(f'placa {i+1}')
+        # define o idioma a ser usado
+        reader = easyocr.Reader(['pt'])
+        # carrega e faz a leitura da imagem
+        results = reader.readtext(f'{i+1}.jpg', paragraph=False)
+        for result in results:
+            print(f'\tTexto: {result[1]}\n')
+
+lerplacasdecarro()
