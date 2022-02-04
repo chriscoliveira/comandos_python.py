@@ -1,5 +1,0 @@
-E ai Dev, você já sabe usar os serviços da AWS? Se ainda não sabe, corre lá e bora aprender cloud 🦾
-.
-.
-.
-#python #pythonprogramming #programação #programacao #programadorweb #programador #programadores #programadora #programadoras #aws #programmers #programmerlife #amazonwebservices #awsrekognition #datascience #machinelearning #cienciadacomputacao #ciênciadacomputação #ti #awss3 #awsec2 #awsservices #awsrds

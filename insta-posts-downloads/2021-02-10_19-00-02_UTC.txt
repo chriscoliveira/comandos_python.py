@@ -1,7 +1,0 @@
-E aí Dev, olha como é fácil ler, interpretar e tratar arquivos JSON com Python 👨🏽‍💻🦾
-
-Para acessar esse e outros códigos basta acessar o nosso GitHub oficial através do link na nossa bio 👉🏼
-.
-.
-.
-#python #pythonprogramming #programação #programacao #code #coding #coderlife #codinglife #codinglife💻 #codingisfun #codingfun #programming #programmer #programmers #programmerlife #ti #tech #dev #json #cienciadacomputacao #ciênciadacomputação #programador #programadores #programadorweb #programadorpython

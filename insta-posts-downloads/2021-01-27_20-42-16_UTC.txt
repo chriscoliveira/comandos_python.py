@@ -1,7 +1,0 @@
-E aí Dev, já conhece a lib instagram_explore? Com ela é possível listar diversas informações do perfil desejado, inclusive posts, legendas e links das imagens 👨🏽‍💻🤓
-.
-Código disponível no GitHub da Pycodebr, acesse através do link na bio do nosso perfil 👉🏼
-.
-.
-.
-#python #pythonprogramming #programação #programacao #ti #tech #dev #programming #programmers #code #coding #instagram #programador #programadores
